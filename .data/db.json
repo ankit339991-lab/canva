@@ -1,0 +1,95 @@
+{
+  "designs": {
+    "proj_ejg7oz9": {
+      "id": "proj_ejg7oz9",
+      "title": "YouTube Thumbnail Design",
+      "width": 1280,
+      "height": 720,
+      "unit": "px",
+      "document": {
+        "id": "proj_ejg7oz9",
+        "title": "YouTube Thumbnail Design",
+        "dimensions": {
+          "width": 1280,
+          "height": 720,
+          "unit": "px"
+        },
+        "pages": [
+          {
+            "id": "page_854vrj8",
+            "name": "Page 1",
+            "background": {
+              "type": "color",
+              "value": "#ffffff"
+            },
+            "objects": []
+          }
+        ],
+        "activePageIndex": 0
+      },
+      "createdAt": "2026-10-18T07:27:16.984Z",
+      "updatedAt": "2026-10-18T07:28:53.920Z",
+      "version": 3
+    },
+    "proj_88jgbbg": {
+      "id": "proj_88jgbbg",
+      "title": "Untitled Design",
+      "width": 1080,
+      "height": 1080,
+      "unit": "px",
+      "document": {
+        "id": "proj_88jgbbg",
+        "title": "Untitled Design",
+        "dimensions": {
+          "width": 1080,
+          "height": 1080,
+          "unit": "px"
+        },
+        "pages": [
+          {
+            "id": "page_6o1a8pg",
+            "name": "Page 1",
+            "background": {
+              "type": "color",
+              "value": "#334155"
+            },
+            "objects": [
+              {
+                "id": "txt_9svs2ve",
+                "type": "text",
+                "x": 290,
+                "y": 480,
+                "width": 500,
+                "height": 120,
+                "rotation": 0,
+                "opacity": 1,
+                "text": "",
+                "fontFamily": "Montserrat",
+                "fontSize": 64,
+                "fontWeight": "800",
+                "fill": "#ffffff",
+                "textAlign": "center",
+                "lineHeight": 1.2,
+                "letterSpacing": 1
+              }
+            ]
+          }
+        ],
+        "activePageIndex": 0
+      },
+      "createdAt": "2026-10-18T07:42:48.157Z",
+      "updatedAt": "2026-10-18T07:45:49.857Z",
+      "version": 132
+    }
+  },
+  "uploads": {
+    "up_test_123": {
+      "id": "up_test_123",
+      "originalName": "logo.png",
+      "url": "/uploads/asset-test.png",
+      "mimeType": "image/png",
+      "size": 10240,
+      "createdAt": "2026-10-18T07:12:46.177Z"
+    }
+  }
+}
